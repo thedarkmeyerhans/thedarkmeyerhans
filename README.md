@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**thedarkmeyerhans/thedarkmeyerhans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi,
 
-Here are some ideas to get you started:
+👨‍🎓 I'm currently a student with a passion for all things code! 💻
+🚀 I'm always eager to learn new technologies and build cool things. 
+🌱 I'm currently exploring:
+  *  Java
+  *  Python
+  *  node
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 My goals include:
+  * Setting up a Projekt
+  * How to Start a Projekt
+  * Learning Java
+  * Learning Python
+  * and much more
+📫 How to reach me: [Links to your website/social media/email]
