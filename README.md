@@ -15,4 +15,4 @@
   * Learning Java
   * Learning Python
   * and much more
-📫 How to reach me: [Links to your website/social media/email]
+📫
